@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://noritakasuzuki.github.io/sitemap.xml 
